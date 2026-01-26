@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <>
-            <div name='about' className=" h-screen w-full bg-gradient-to-b from-gray-800 to-black text-white">
+            <div name='about' className=" w-full bg-gradient-to-b from-gray-800 to-black text-white">
 
                 <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
 
@@ -12,7 +12,8 @@ const About = () => {
                     </div>
 
                     <p className='text-xl mt-10  '>
-                        My name is Shivam Kumar and I am a Full Stack Developer currently looking for MERN Stack roles.
+                        {/* My name is Shivam Kumar and I am a Full Stack Developer currently looking for MERN Stack roles. */}
+                        My name is Shivam Kumar, and I am a Full Stack Developer with 2 years of experience specializing in React.js and Redux, including experience working on AI-integrated projects. I am currently expanding my expertise into backend development with Node.js to build comprehensive MERN stack applications.
                         <br />
                         <br />
                         I have a knack for good design and UI and have good knowledge of ReactJS, NodeJS, Redux, HTML, CSS and Javascript concepts such as Closures, Event-Loop, Hoisting, Callbacks, Promises, etc. I have also worked with state management tools such as REDUX and CONTEXT-API and handled asynchronous network calls in Javascript using Async/Await.
