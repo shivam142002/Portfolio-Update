@@ -13,7 +13,7 @@ const About = () => {
 
                     <p className='text-xl mt-10  '>
                         {/* My name is Shivam Kumar and I am a Full Stack Developer currently looking for MERN Stack roles. */}
-                        My name is Shivam Kumar, and I am a Full Stack Developer with 2 years of experience specializing in React.js and Redux, including experience working on AI-integrated projects. I am currently expanding my expertise into backend development with Node.js to build comprehensive MERN stack applications.
+                        My name is Shivam Kumar, and I am a Frontend Developer with 2 years of experience specializing in React.js and Redux, including experience working on AI-integrated projects. I am currently expanding my expertise into backend development with Node.js to build comprehensive MERN stack applications.
                         <br />
                         <br />
                         I have a knack for good design and UI and have good knowledge of ReactJS, NodeJS, Redux, HTML, CSS and Javascript concepts such as Closures, Event-Loop, Hoisting, Callbacks, Promises, etc. I have also worked with state management tools such as REDUX and CONTEXT-API and handled asynchronous network calls in Javascript using Async/Await.
