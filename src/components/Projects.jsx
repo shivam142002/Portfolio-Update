@@ -8,17 +8,26 @@ import TicTac from "../assets/portfolio/TicTac.png";
 import CharacterCounter from "../assets/portfolio/CharacterCounter.png";
 import AIComPonentGenerator from "../assets/portfolio/AIComPonentGenerator.png";
 import ImageEditor from "../assets/portfolio/ImageEditor.png";
+import EShop from "../assets/portfolio/EShop.png";
 const Projects = () => {
   const projects = [
+
     {
       id: 1,
+      linkGithub:
+        "https://github.com/shivam142002/React-Ecommerce",
+      linkHosted: "https://react-eccomercekk.netlify.app/",
+      src: EShop,
+    },
+    {
+      id: 2,
       linkGithub:
         "https://github.com/shivam142002/React-AI-Component-Generator",
       linkHosted: "https://react-ai-component-generator.vercel.app/",
       src: AIComPonentGenerator,
     },
     {
-      id: 2,
+      id: 3,
       linkGithub:
         "https://github.com/shivam142002/React-shopping-cart-context-with-reducer",
       linkHosted:
@@ -27,14 +36,14 @@ const Projects = () => {
     },
 
     {
-      id: 3,
+      id: 4,
       linkGithub: "https://github.com/shivam142002/vega-web",
       linkHosted: "https://vega-web-wheat.vercel.app/",
       src: ImageEditor,
     },
 
     {
-      id: 4,
+      id: 5,
       linkGithub:
         "https://github.com/shivam142002/Employee-Management-System--React--CURD-Operation-",
       linkHosted:
@@ -43,28 +52,28 @@ const Projects = () => {
     },
 
     {
-      id: 5,
+      id: 6,
       linkGithub: "https://github.com/shivam142002/Todo-App-React-Redux",
       linkHosted: "https://todo-app-react-redux-six.vercel.app/",
       src: TodoAppUpdate,
     },
 
     {
-      id: 6,
+      id: 7,
       linkGithub: "https://github.com/shivam142002/Weather-App",
       linkHosted: "https://shivam142002.github.io/Weather-App/",
       src: WeatherApp,
     },
 
     {
-      id: 7,
+      id: 8,
       linkGithub: "https://github.com/shivam142002/Tic-Tac-Toe",
       linkHosted: "https://shivam142002.github.io/Tic-Tac-Toe/",
       src: TicTac,
     },
 
     {
-      id: 8,
+      id: 9,
       linkGithub: "https://github.com/shivam142002/Real-time-Character-Counter",
       linkHosted: "https://shivam142002.github.io/Real-time-Character-Counter/",
       src: CharacterCounter,
